@@ -21,7 +21,7 @@
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
     <string name="game_habitants">Penduduk: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Seed:</string>
+    <string name="createcity_seed">Benih:</string>
     <string name="createcity_sizesmall">Kecil</string>
     <string name="createcity_sizemiddle">Sedang</string>
     <string name="createcity_sizebig">Besar</string>
@@ -270,7 +270,7 @@
     <string name="settings_orientationportrait">Portrait</string>
     <string name="settings_orientationauto">Otomatis</string>
     <string name="draft_busdepot00_title">Terminal bus</string>
-    <string name="draft_busdepot00_text">Pengen mudik tapi takut macet? Bus muncul dari sini. Jangan lupa pake masker.</string>
+    <string name="draft_busdepot00_text">Pengen mudik tapi takut macet? Bus muncul dari sini.</string>
     <string name="settings_debugmode">Mode debug</string>
     <string name="unknown">Wurstbrot</string>
     <string name="draftselector_titleremove">Hapus</string>
@@ -405,11 +405,11 @@
     <string name="draft_radio00_news_text">Mengirim berita terbaru tentang kota. Meningkatkan pengetahuan.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
-    <string name="draft_radio00_sport_title">Sport FM</string>
+    <string name="draft_radio00_sport_title">Olahraga FM</string>
     <string name="draft_radio00_sport_text">Mengirimkan laporan olahraga dan siaran langsung acara olahraga yang menarik. Bertindak seperti lapangan olahraga dengan jarak yang sangat jauh.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
-    <string name="draft_radio00_fun_title">Dangdut FM</string>
+    <string name="draft_radio00_fun_title">Lagu FM</string>
     <string name="draft_radio00_fun_text">Sering mengirimkan musik dan program hiburan ringan. Pendengarnya merasa lebih baik. Jadi, bertindak seperti taman dengan jarak yang sangat jauh.
 \n
 \nHanya satu program radio yang diizinkan pada saat bersamaan. Program lama akan dihapus.</string>
@@ -489,8 +489,8 @@
     <string name="disaster_illness_text">WHO ingin megetes virus barunya dan butuh kandidat</string>
     <string name="disaster_illness_cmdtext">Lepaskan virusnya!</string>
     <string name="disaster_flooding_title">Banjir</string>
-    <string name="disaster_flooding_text">Paretnya meluap lagi tuh.</string>
-    <string name="disaster_flooding_cmdtext">Sumbat Paretnya</string>
+    <string name="disaster_flooding_text">Tanggulnya Jebol Tuh.</string>
+    <string name="disaster_flooding_cmdtext">Sumbat Tanggulnya</string>
     <string name="buildinginfo_influences">Pengaruh</string>
     <string name="ci_loan_title">Pinjaman</string>
     <string name="ci_loan_donate">Donasikan</string>
@@ -535,7 +535,7 @@
     <string name="draftselector_onlyn">Hanya bisa dibangun %1$,d kali</string>
     <string name="draft_church02_title">Gereja Kecil</string>
     <string name="draft_church02_text">Rumah ibadah untuk umat Kristen.</string>
-    <string name="draft_mosque01_title">Masjid Kecil</string>
+    <string name="draft_mosque01_title">Musola</string>
     <string name="draft_mosque01_text">Rumah ibadah untuk umat Islam.</string>
     <string name="settings_sound_ui">Suara UI</string>
     <string name="settings_sound_game">Suara dalam game</string>
@@ -634,7 +634,7 @@
     <string name="draft_sewerpipe00_text">Mengurangi polusi air dengan membuang limbah ke alam. Menghasilkan pengaruh yang buruk.</string>
     <string name="settings_lowresmapscreenshot">Rendahkan resolusi untuk screenshot peta.</string>
     <string name="draft_marina00_title">Marina</string>
-    <string name="draft_marina00_text">Hiburan untuk horang kaya.</string>
+    <string name="draft_marina00_text">Hiburan untuk orang kaya.</string>
     <string name="loadcity_version">Versi %1$,d</string>
     <string name="loadcity_memdialog_title">Tidak punya akses ke memori eksternal</string>
     <string name="loadcity_memdialog_text">Kota akan disimpan di memori internal. Kamu tidak punya akses untuk itu.</string>
@@ -646,14 +646,14 @@
     <string name="draft_decoind00_title">Area industri</string>
     <string name="settings_shaderconfig">Warna</string>
     <string name="settings_shadertype_normal">Normal</string>
-    <string name="settings_shadertype_fancy">Fancy</string>
-    <string name="settings_shadertype_xfancy">X-Fancy</string>
+    <string name="settings_shadertype_fancy">Mewah</string>
+    <string name="settings_shadertype_xfancy">X-Mewah</string>
     <string name="draft_buoy00_title">Pelampung</string>
     <string name="draft_buoy00_text">Mengarahkan perahu.</string>
     <string name="ci_general_seed">Biji: %1$s</string>
-    <string name="draft_decores00_text">.</string>
-    <string name="draft_decocom00_text">.</string>
-    <string name="draft_decoind00_text">.</string>
+    <string name="draft_decores00_text">Dekorasi Residential, Membuat Game Serasa Nyata</string>
+    <string name="draft_decocom00_text">Dekorasi Komersial, Membuat Game Serasa Nyata</string>
+    <string name="draft_decoind00_text">Dekorasi Industri, Membuat Game Serasa Nyata</string>
     <string name="ci_budget_title_nomoney">Keuangan (teoretis)</string>
     <string name="dialog_notification_cmdok">Ok</string>
     <string name="draft_nuclearplant00_title">PLTN</string>
@@ -725,8 +725,8 @@
     <string name="dialog_renameauthor_title">Ganti nama pencipta</string>
     <string name="dialog_renameauthor_text">Mohon masukkan nama pencipta baru.</string>
     <string name="ci_general_authorname">Pencipta: %1$s</string>
-    <string name="loadcity_author">oleh %1$s</string>
-    <string name="game_cityauthor">oleh %1$s</string>
+    <string name="loadcity_author">Pembuat %1$s</string>
+    <string name="game_cityauthor">Pembuat %1$s</string>
     <string name="control_ok">Ok</string>
     <string name="control_cancel">Batal</string>
     <string name="createcity_settings">Selanjutnya...</string>
@@ -1169,10 +1169,10 @@ Jika TheoTown diberi akses ke penyimpanan eksternal, kota akan disimpan di direk
     <string name="draft_rnk_country_medium_title">Negara</string>
     <string name="draft_rnk_country_big_title">Negara Besar</string>
     <string name="draft_rnk_country_large_title">Negara Perserikatan</string>
-    <string name="draft_rnk_continent_small_title">Kontinen Kecil</string>
-    <string name="draft_rnk_continent_medium_title">Kontinen</string>
-    <string name="draft_rnk_continent_big_title">Kontinen Besar</string>
-    <string name="draft_rnk_continent_large_title">Kontinen Sangat Besar</string>
+    <string name="draft_rnk_continent_small_title">Benua Kecil</string>
+    <string name="draft_rnk_continent_medium_title">Benua</string>
+    <string name="draft_rnk_continent_big_title">Benua Besar</string>
+    <string name="draft_rnk_continent_large_title">Benua Sangat Besar</string>
     <string name="draft_rnk_planet_small_title">Planet Kecil</string>
     <string name="draft_rnk_planet_medium_title">Planet</string>
     <string name="draft_rnk_planet_big_title">Planet Besar</string>
